@@ -1,4 +1,4 @@
-
+<body>
     <div class="header">
       <h2>Emad A. Abu lebda</h2>
       <h3>Location: Gaza - Palestine</h3>
@@ -44,3 +44,4 @@
       </ul>
     </div>
   
+</body>
