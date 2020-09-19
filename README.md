@@ -21,7 +21,7 @@
     <div class="content">
       <h2>Professional Summary:</h2>
       <p>
-        I am a junior software engineer, I am frameworks and technology independent, I keep my skills updated and learning Modern technologies, I am a general software engineer with experience in backend development in various languages and technologies.
+        I am a junior Backend developer, I keep my skills updated and learning Modern technologies
       </p>
       <h2>Work Experience:</h2>
       <div>
