@@ -27,7 +27,7 @@
       <div>
         <ul class="list">
           <li>
-            2017 till now junior Software Engineer - PHP laravel & Asp.net
+            2018 till now: junior Back-end Devleope - PHP laravel
           </li>
         </ul>
       </div>
