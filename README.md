@@ -16,8 +16,8 @@
             </a
             >
           </h3>
-          <h3>Github: <a href="https://github.com/emadlebda">Github</a></h3>
         </div>
+        <br/>
         <div class="content">
           <h2>Professional Summary:</h2>
           <p>
