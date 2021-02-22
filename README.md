@@ -21,19 +21,30 @@
     <div class="content">
       <h2>Professional Summary:</h2>
       <p>
-        I am a junior Backend developer, I keep my skills updated and learning Modern technologies
+        Web developer, keeping my skills updated and learning Modern technologies
+      </p>
+        <h3>Skills :</h3>
+      <p>
+          <ul class="list inline">
+            <li>PHP, Laravel</li>
+            <li>MySQL</li>
+            <li>HTML, CSS, Bootstrap, JavaScript, jQuery experience</li>
+            <li>REST APIs, JWT, Postman</li>
+             <li> Docker, Git for version control</li>
+          </ul>
       </p>
       <h2>Work Experience:</h2>
       <div>
         <ul class="list">
           <li>
-            2018 till now: junior Back-end Devleope - PHP laravel
+            2018 till now: junior Web  Devleoper - PHP laravel
           </li>
         </ul>
       </div>
       <h3 class="work">Education:</h3>
-      <p>Faculty of Information Technology -
+      <p>
         <a href="http://www.iugaza.edu.ps/en/">Islamic University of gaza</a>
+          , Bachelor's degree in Computer Science
       </p>
       <h3 class="work">Languages</h3>
       <ul class="list inline">
