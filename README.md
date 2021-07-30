@@ -21,7 +21,7 @@
         <div class="content">
           <h2>Professional Summary:</h2>
           <p>
-            Web developer with +3 years experience in PHP 2 of them was dealing with laravel, keeping my skills updated and learning Modern technologies
+            Web developer with +4 years experience in PHP 3 of them was dealing with laravel, keeping my skills updated and learning Modern technologies
           </p>
             <h3>Skills :</h3>
           <p>
