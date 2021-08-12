@@ -1,8 +1,9 @@
 <body>
   <div class="header">
           <h2>Emad A. Abu lebda</h2>
-          <h3>Location: Gaza - Palestine</h3>
+          <h3>Location: vinnytsia - Ukraine</h3>
           <h3>Phone: <a href="tel:+972598079903">+972598079903</a></h3>
+          <h3>Phone: <a href="tel:+380633106203">+972598079903</a></h3>
           <h3>
             Email:
             <a href="mailto:emadabulebda@gmail.com"
