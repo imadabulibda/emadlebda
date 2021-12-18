@@ -35,6 +35,7 @@
                 <li> Docker, Git for version control</li>
               </ul>
           </p>
+  
           <h2>Work Experience:</h2>
           <div>
             <ul class="list">
@@ -57,3 +58,9 @@
           </ul>
         </div>
 </body>
+
+## My stack 💻
+
+I do mostly React & Gatsby stuff. (Experimenting with Vue, Svelte).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
