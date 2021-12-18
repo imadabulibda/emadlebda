@@ -34,20 +34,18 @@
                 <li>TDD</li>
                 <li> Docker, Git for version control</li>
               </ul>
-          </p>
-  
           <h2>Work Experience:</h2>
           <div>
             <ul class="list">
               <li>
-                2017 till now: Web  Devleoper - PHP laravel
+                2017 till now: Web  Developer - PHP laravel
               </li>
             </ul>
           </div>
           <h3 class="work">Education:</h3>
           <p>
             <a href="http://www.iugaza.edu.ps/en/">Islamic University of gaza</a>
-              , Bachelor's degree in Computer Science
+              , Bachelor's degree in Computer Science.
           </p>
           <h3 class="work">Languages</h3>
           <ul class="list inline">
@@ -57,10 +55,9 @@
             <li>Russian: Fluent</li>
           </ul>
         </div>
+
 </body>
 
 ## My stack 💻
-
-I do mostly React & Gatsby stuff. (Experimenting with Vue, Svelte).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
