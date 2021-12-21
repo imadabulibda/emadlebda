@@ -51,8 +51,8 @@
           <ul class="list inline">
             <li>Arabic: Native</li>
             <li>English: Fluent</li>
-            <li>Ukrainian: Fluent</li>
-            <li>Russian: Fluent</li>
+            <li>Ukrainian: Mid</li>
+            <li>Russian: Mid</li>
           </ul>
         </div>
 
