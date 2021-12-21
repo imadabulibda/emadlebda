@@ -60,4 +60,4 @@
 
 ## My stack 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micorix&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emadlebda&layout=compact)
