@@ -34,14 +34,6 @@
                 <li>TDD</li>
                 <li> Docker, Git for version control</li>
               </ul>
-          <h2>Work Experience:</h2>
-          <div>
-            <ul class="list">
-              <li>
-                2017 till now: Web  Developer - PHP laravel
-              </li>
-            </ul>
-          </div>
           <h3 class="work">Education:</h3>
           <p>
             <a href="http://www.iugaza.edu.ps/en/">Islamic University of gaza</a>
